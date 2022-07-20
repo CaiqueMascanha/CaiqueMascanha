@@ -1,4 +1,4 @@
-## Olá! Eu sou o Caique Mascanha, desenvolvedor Front-End
+## Olá! Eu sou o Caique Mascanha, desenvolvedor Front-End.
 
 <div align="center">
   <a href="https://github.com/CaiqueMascanha">
