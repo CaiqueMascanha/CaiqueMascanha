@@ -1,13 +1,5 @@
 ## Olá! Eu sou o Caique Mascanha, desenvolvedor Front-End
 
-
-
-- 🔭 Hoje trabalho com análise de dados
-- 🌱 Estudando HTML, CSS e JavaScript
-- 👯 Estou em busca da minha primeira oportunidade como desenvolvedor Front-End
-- 📫 Contate-me pelo LinkedIn: https://www.linkedin.com/in/caique-da-silva-mascanha-749177204
-- 😄 Pronouns: Ele/Dele
-
 <div align="center">
   <a href="https://github.com/CaiqueMascanha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueMascanha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
