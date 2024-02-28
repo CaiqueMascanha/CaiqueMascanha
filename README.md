@@ -26,6 +26,8 @@
   <img align="center" alt="Caique-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Caique-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Caique-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Caique-MySQL" height="30" width="40" src="https://icons8.com.br/icon/laYYF3dV0Iew/servidor-microsoft-sql">
+  
   
 </div>
 
