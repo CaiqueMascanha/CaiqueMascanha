@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1>Olá! Eu sou o Caique Mascanha Engenheiro de Dados!</h1>
+  <h1>Olá! Eu sou o Caique Mascanha, Engenheiro de Dados!</h1>
 </div>
 
 <div align="center">  
@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaiqueMascanha&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CaiqueMascanha&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center"> 
