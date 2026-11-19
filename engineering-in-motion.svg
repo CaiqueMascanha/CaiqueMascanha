@@ -1,10 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="308" viewBox="0 0 1000 308" role="img" aria-labelledby="title desc">
-<title id="title">Caique Mascanha | Engineering in motion</title><desc id="desc">A blueprint-inspired banner showing a data stream transforming into an application signal.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#08101e"/><stop offset="1" stop-color="#101f3a"/></linearGradient><linearGradient id="line"><stop stop-color="#45f3ce"/><stop offset="1" stop-color="#7c9bff"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#93afe8" stroke-opacity=".12"/></pattern></defs>
-<rect x="1" y="1" width="998" height="306" rx="20" fill="url(#bg)" stroke="#253c63" stroke-width="2"/><rect x="602" y="19" width="378" height="270" rx="14" fill="url(#grid)"/>
-<g fill="none" stroke="url(#line)" stroke-width="2"><path d="M630 90H681L718 149H784L828 102H948" opacity=".55"/><path d="M630 149H784L828 200H948"/><path d="M630 207H680L718 149" opacity=".55"/><path d="M784 149H948" opacity=".32"/></g>
-<g fill="#0a1425" stroke="#57edcf" stroke-width="2"><circle cx="630" cy="90" r="5"/><circle cx="630" cy="149" r="5"/><circle cx="630" cy="207" r="5"/><circle cx="718" cy="149" r="12"/><circle cx="784" cy="149" r="8"/><circle cx="948" cy="102" r="5"/><circle cx="948" cy="200" r="5"/></g>
-<g fill="#a0b6df" font-family="monospace" font-size="13" letter-spacing="2"><text x="50" y="52">ENGINEERING PORTFOLIO / BRAZIL</text><text x="630" y="258">INGEST</text><text x="743" y="258">PROCESS</text><text x="875" y="258">SERVE</text></g>
-<rect x="50" y="76" width="45" height="4" rx="2" fill="#45f3ce"/><text x="48" y="151" fill="#f1f6ff" font-family="system-ui, sans-serif" font-weight="750" font-size="56">Caique Mascanha</text>
-<text x="50" y="194" fill="#58e8d1" font-family="system-ui, sans-serif" font-weight="600" font-size="25">Engineering in motion.</text>
-<text x="50" y="253" fill="#a0b6df" font-family="monospace" font-size="16">DATA PLATFORMS  /  BACKEND SYSTEMS</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="324" viewBox="0 0 1000 324" role="img" aria-labelledby="title desc">
+<title id="title">Caique Mascanha | Engineering in motion</title>
+<desc id="desc">A dark blueprint with a teal and violet data pipeline: ingest, process, serve.</desc>
+<defs>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070c16"/><stop offset="1" stop-color="#121c37"/></linearGradient>
+  <linearGradient id="signal"><stop stop-color="#40f0bb"/><stop offset=".52" stop-color="#62c8fc"/><stop offset="1" stop-color="#b49aff"/></linearGradient>
+  <radialGradient id="light"><stop stop-color="#315ebb" stop-opacity=".43"/><stop offset="1" stop-color="#315ebb" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#adcaff" stroke-opacity=".10"/></pattern>
+  <clipPath id="frame"><rect x="1" y="1" width="998" height="322" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <path fill="url(#base)" d="M0 0h1000v324H0z"/>
+  <ellipse cx="835" cy="148" rx="320" ry="216" fill="url(#light)"/>
+  <path d="M602 24h374v278H602z" fill="url(#grid)"/>
+  <path d="M45 281H955" stroke="#9bb9f1" stroke-opacity=".24"/>
+  <path d="M46 281H204" stroke="url(#signal)" stroke-width="2"/>
+  <g stroke="url(#signal)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M624 82h40l43 62h111l48-49h79" stroke-width="1.8" opacity=".44"/>
+    <path d="M624 144h194l48 50h79" stroke-width="3.2"/>
+    <path d="M624 207h40l43-63m111 0h127" stroke-width="1.8" opacity=".55"/>
+    <path d="M642 114h18m-18 59h18m228-56h26m-45 100h26" stroke-width="1.35" opacity=".40"/>
+  </g>
+  <g fill="#111c34" stroke-width="2.2">
+    <circle cx="624" cy="82" r="5" stroke="#45efc1"/><circle cx="624" cy="144" r="7" stroke="#45efc1"/><circle cx="624" cy="207" r="5" stroke="#45efc1"/>
+    <circle cx="945" cy="95" r="5" stroke="#b69fff"/><circle cx="945" cy="144" r="5" stroke="#b69fff"/><circle cx="945" cy="194" r="7" stroke="#b69fff"/>
+    <circle cx="818" cy="144" r="12" stroke="#82c8ff"/><circle cx="707" cy="144" r="13" stroke="#5fe4e2"/>
+  </g>
+  <circle cx="707" cy="144" r="24" fill="none" stroke="#5fe4e2" stroke-opacity=".32"/>
+  <circle cx="707" cy="144" r="4" fill="#5fe4e2"/><circle cx="818" cy="144" r="3.5" fill="#88c8ff"/>
+  <g font-family="ui-monospace, monospace" font-weight="600" letter-spacing="2">
+    <text x="46" y="55" font-size="14" fill="#74f1d5">ENGINEERING IN MOTION</text>
+    <text x="46" y="249" font-size="13" fill="#a8b9d8">PYTHON  /  SPARK  /  KAFKA  /  JAVA</text>
+    <text x="625" y="251" font-size="12" fill="#71efcd">01 INGEST</text>
+    <text x="746" y="251" font-size="12" fill="#87d2fa">02 PROCESS</text>
+    <text x="882" y="251" font-size="12" fill="#c4b1ff">03 SERVE</text>
+  </g>
+  <text x="43" y="133" fill="#f5f8ff" font-family="system-ui, sans-serif" font-weight="800" font-size="68" letter-spacing="-3">Caique Mascanha</text>
+  <text x="47" y="185" font-family="system-ui, sans-serif" font-weight="650" font-size="27" fill="url(#signal)">Data engineering &amp; backend systems</text>
+</g>
+<rect x="1" y="1" width="998" height="322" rx="22" fill="none" stroke="#3c5077" stroke-width="2"/>
+</svg>
